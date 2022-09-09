@@ -1,4 +1,0 @@
-Meu site: https://empres-exemplo.000webhostapp.com 
-
-O git bash é um terminal extendido para otimizar o uso do Git.
-
